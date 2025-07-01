@@ -1,11 +1,11 @@
 
-# 🏠 Airbnb Data Analysis (EDA)
+#  Airbnb Data Analysis (EDA)
 
 This project presents an **Exploratory Data Analysis (EDA)** of the Airbnb dataset. The goal is to understand the structure, trends, and key insights from Airbnb listings data through visualizations and statistical summaries.
 
 ---
 
-## 📊 Objectives
+##  Objectives
 
 - Perform initial data loading and cleaning
 - Explore geographic distribution of listings
@@ -15,7 +15,7 @@ This project presents an **Exploratory Data Analysis (EDA)** of the Airbnb datas
 
 ---
 
-## 📁 Dataset
+##  Dataset
 
 The dataset used is a **public Airbnb dataset** containing details about listings such as:
 - Host and location information
@@ -30,7 +30,7 @@ df = pd.read_csv('Datasets.csv')
 
 ---
 
-## 📌 Key Insights
+##  Key Insights
 
 - **Room Type Distribution**: Most listings are entire homes/apartments, followed by private rooms.
 - **Top Neighborhoods**: Certain neighborhoods dominate the number of listings and average pricing.
@@ -40,7 +40,7 @@ df = pd.read_csv('Datasets.csv')
 
 ---
 
-## 📈 Visualizations
+##  Visualizations
 
 The notebook includes:
 - Bar plots of top neighborhoods
@@ -50,7 +50,7 @@ The notebook includes:
 - Scatter plots showing spatial pricing trends
 
 ---
-## 📌 Screenshots
+##  Screenshots
 
 <p align="left">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/PGrN0qpK/Screenshot-2025-07-01-195801.png" height ="300" weight = "50%"></a>
@@ -59,9 +59,10 @@ The notebook includes:
 <a href="https://ibb.co/6JGRg3yT"><img src="https://i.ibb.co/G3GvcKd8/Screenshot-2025-07-01-195912.png" height ="300" weight = "50%"></a>
 <a href="https://ibb.co/dstQVqf4"><img src="https://i.ibb.co/cKwNZHyh/Screenshot-2025-07-01-195818.png" height ="300" weight = "50%"></a>
 <a href="https://ibb.co/WWYxPkPW"><img src="https://i.ibb.co/cc7gC6Cc/Screenshot-2025-07-01-195811.png" height ="300" weight = "50%"></a>
+  <a href="https://ibb.co/hR8mpGHb"><img src="https://i.ibb.co/Fb7DGQJ2/Screenshot-2025-07-01-201022.png"  height ="300" weight = "50%"></a>
 </p>
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - Pandas & NumPy
@@ -70,7 +71,7 @@ The notebook includes:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 To run the notebook locally:
 
@@ -92,7 +93,7 @@ To run the notebook locally:
 
 ---
 
-## 📚 Credits
+##  Credits
 
 - Inspired by several public EDA notebooks on Kaggle and YouTube
 
